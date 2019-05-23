@@ -1,0 +1,16 @@
+{
+  "name": "spielplan",
+  "version": "1.0.0",
+  "description": "svd spielplan",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Bene Caspari",
+  "license": "MIT",
+  "dependencies": {
+    "canvas": "^2.5.0",
+    "htmlparser": "^1.7.7",
+    "moment": "^2.24.0"
+  }
+}
