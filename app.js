@@ -17,16 +17,18 @@ function readModuleFile(path, callback) {
 var spielplan = [];
 var strSpielplan = "";
 
-readModuleFile("./aktuell.txt", function(err, words) {
+readModuleFile("./aktuell.txt", function (err, words) {
   var handler = new htmlparser.DefaultHandler(
-    function(error, dom) {
+    function (error, dom) {
       if (error) {
         console.log(error);
       } else {
         console.log("finished");
       }
-    },
-    { verbose: false, ignoreWhitespace: true }
+    }, {
+      verbose: false,
+      ignoreWhitespace: true
+    }
   );
   var parser = new htmlparser.Parser(handler);
   parser.parseComplete(words);
@@ -49,19 +51,24 @@ readModuleFile("./aktuell.txt", function(err, words) {
       treEle.attribs.class == "jlistTrOdd"
     ) {
       var spieldata = parseSpielData(treEle);
-      spielplan.push({ staffelInfo, spieldata });
+      spielplan.push({
+        staffelInfo,
+        spieldata
+      });
     }
   }
   sortByTimeStamp();
 
   spielplan.forEach((element) => {
-    strSpielplan += JSON.stringify(element) + "\n";
+    strSpielplan += fillText(element);
   });
   writeOnImage();
 });
 
 function parseMetaData(treEle) {
-  return treEle.children[0].children[0].children[0].children[0].data;
+  var info = treEle.children[0].children[0].children[0].children[0].data;
+  var words = info.split(',');
+  return words[0];
 }
 
 function parseSpielData(treEle) {
@@ -82,9 +89,9 @@ function parseSpielData(treEle) {
 }
 
 function sortByTimeStamp() {
-  spielplan = spielplan.sort(function(a, b) {
-    var datum1 = moment(a.spieldata["datum"], "DD.MM.YYYY");
-    var datum2 = moment(b.spieldata["datum"], "DD.MM.YYYY");
+  spielplan = spielplan.sort(function (a, b) {
+    var datum1 = moment(a.spieldata["datum"], "DD.MM.YYYY").valueOf();
+    var datum2 = moment(b.spieldata["datum"], "DD.MM.YYYY").valueOf();
     if (datum1 == datum2) {
       var zeit1str = a.spieldata["zeit"];
       var zeit1 = parseInt(zeit1str.replace(":", ""));
@@ -103,26 +110,36 @@ function fontFile(name) {
 function writeOnImage() {
   //   Canvas.registerFont(fontFile("ARBLI___0.ttf"), { family: "ARBLI___0" });
 
-  var canvas = Canvas.createCanvas(7100, 3500);
+  var canvas = Canvas.createCanvas(1275, 816);
   var ctx = canvas.getContext("2d");
 
   var Image = Canvas.Image;
   var img = new Image();
-  img.src = "consyd_big.png";
+  img.src = "./image/current.png";
 
   ctx.clearRect(0, 0, canvas.width, canvas.height);
   ctx.drawImage(img, 0, 0, canvas.width, canvas.height);
 
-  ctx.fillStyle = "black";
+  ctx.fillStyle = "white";
   ctx.textAlign = "center";
 
-  ctx.font = "50px";
-  ctx.fillText(strSpielplan, 3900, 1700);
+  ctx.font = "bold 20px Courier New";
+  ctx.fillText(strSpielplan, 500, 125);
 
   canvas
     .createPNGStream()
     .pipe(fs.createWriteStream(path.join(__dirname, "font.png")));
-  canvas
-    .createJPEGStream()
-    .pipe(fs.createWriteStream(path.join(__dirname, "font.jpg")));
+}
+var lastDate = "";
+
+function fillText(element) {
+  var rowStr;
+  if (lastDate === element.spieldata.tag) {
+    rowStr = element.staffelInfo + " - " + element.spieldata.zeit + ": " + element.spieldata.heim + " : " + element.spieldata.gast + "\n\n";
+  } else {
+    rowStr = element.spieldata.tag + "," + element.spieldata.datum + "\n" + element.staffelInfo + " - ";
+    rowStr += element.spieldata.zeit + ": " + element.spieldata.heim + " : " + element.spieldata.gast + "\n\n";
+  }
+  lastDate = element.spieldata.tag;
+  return rowStr;
 }
