@@ -15,8 +15,8 @@
                     <tr class="jlistTrOdd">
                           <td style="text-align:center;" colspan="14" class="listtext">
                               <b>
-                                <span>Herren, 1.Kreisliga (A), Bodensee</span> <br>
-                                <span>335024 - Meisterschaft, Kreisliga A Staffel 3</span>
+                                <span>Herren, Bezirksliga, Bezirk Bodensee</span> <br>
+                                <span>335036 - Meisterschaft, Bezirksliga Bodensee</span>
                               </b>
                           </td>
                       </tr>
@@ -26,8 +26,8 @@
                 <tr class="jlistTrEven">
                     <td class="listtext">
                         
-                            <a id="open_match_024438S6SO000000VS54898DVSP965K1" class="dfb-left dfb-link" href="/spielplus/mod_sbo/spielplan/anzeige.do?selektiertesSpielId=024438S6SO000000VS54898DVSP965K1&amp;historisch=false&amp;neuAnsetzungsnr=&amp;versionPruefer=&amp;refereeActive=false&amp;torschuetzenBearbeiten=false&amp;listTyp=1">
-                                <img class="dfb-icon" title="Spielbericht bearbeiten" src="/customize/7.30.80.3840/dfbnet/images/icons/spiel_details_edit.gif" alt="Bearbeiten">
+                            <a id="open_match_027NNC5CSG000000VS5489B3VVRDDT7H" class="dfb-left dfb-link" href="/spielplus/mod_sbo/spielplan/anzeige.do?selektiertesSpielId=027NNC5CSG000000VS5489B3VVRDDT7H&amp;historisch=false&amp;neuAnsetzungsnr=&amp;versionPruefer=&amp;refereeActive=false&amp;torschuetzenBearbeiten=false&amp;listTyp=1">
+                                <img class="dfb-icon" title="Spielbericht bearbeiten" src="/customize/7.41.18.4011/dfbnet/images/icons/spiel_details_edit.gif" alt="Bearbeiten">
                             </a>
                         
                         
@@ -38,13 +38,13 @@
                         
                         
                     </td>
-                    <td style="text-align:center;" class="listtext">174</td>
-                    <td style="text-align:center;" class="listtext">Sa</td>
-                    <td style="text-align:center;" class="listtext">08.06.2019</td>
-                    <td style="text-align:center;" class="listtext">16:00</td>
-                    <td style="text-align:center;" class="listtext">25</td>
+                    <td style="text-align:center;" class="listtext">006</td>
+                    <td style="text-align:center;" class="listtext">So</td>
+                    <td style="text-align:center;" class="listtext">25.08.2019</td>
+                    <td style="text-align:center;" class="listtext">15:00</td>
+                    <td style="text-align:center;" class="listtext">1</td>
+                    <td class="listtext">FC Steißlingen</td>
                     <td class="listtext">SV Deggenhausertal</td>
-                    <td class="listtext">FC Überlingen 2</td>
                     <td style="text-align:center;" class="listtext"></td>
                     <td class="listtext">
                         
@@ -65,7 +65,7 @@
 
 
 
-	<img class="dfb-icon" title="Schiedsrichter ist geplant" src="/customize/7.30.80.3840/dfbnet/images/icons/spiel_schiri.gif" alt="">
+	<img class="dfb-icon" title="Schiedsrichter ist geplant" src="/customize/7.41.18.4011/dfbnet/images/icons/spiel_schiri.gif" alt="">
 
 
 
@@ -86,8 +86,6 @@
 
 
 
-
-	<img class="dfb-icon" title="In Planung" src="/customize/7.30.80.3840/dfbnet/images/icons/mannschaft_edit.gif" alt="">
 
 
 
@@ -140,8 +138,8 @@
                 <tr class="jlistTrOdd">
                     <td class="listtext">
                         
-                            <a id="open_match_024438S6V4000000VS54898DVSP965K1" class="dfb-left dfb-link" href="/spielplus/mod_sbo/spielplan/anzeige.do?selektiertesSpielId=024438S6V4000000VS54898DVSP965K1&amp;historisch=false&amp;neuAnsetzungsnr=&amp;versionPruefer=&amp;refereeActive=false&amp;torschuetzenBearbeiten=false&amp;listTyp=1">
-                                <img class="dfb-icon" title="Spielbericht bearbeiten" src="/customize/7.30.80.3840/dfbnet/images/icons/spiel_details_edit.gif" alt="Bearbeiten">
+                            <a id="open_match_027NNC5DMK000000VS5489B3VVRDDT7H" class="dfb-left dfb-link" href="/spielplus/mod_sbo/spielplan/anzeige.do?selektiertesSpielId=027NNC5DMK000000VS5489B3VVRDDT7H&amp;historisch=false&amp;neuAnsetzungsnr=&amp;versionPruefer=&amp;refereeActive=false&amp;torschuetzenBearbeiten=false&amp;listTyp=1">
+                                <img class="dfb-icon" title="Spielbericht bearbeiten" src="/customize/7.41.18.4011/dfbnet/images/icons/spiel_details_edit.gif" alt="Bearbeiten">
                             </a>
                         
                         
@@ -152,13 +150,13 @@
                         
                         
                     </td>
-                    <td style="text-align:center;" class="listtext">179</td>
-                    <td style="text-align:center;" class="listtext">So</td>
-                    <td style="text-align:center;" class="listtext">16.06.2019</td>
-                    <td style="text-align:center;" class="listtext">15:00</td>
-                    <td style="text-align:center;" class="listtext">26</td>
-                    <td class="listtext">SC Pfullendorf 2</td>
+                    <td style="text-align:center;" class="listtext">015</td>
+                    <td style="text-align:center;" class="listtext">Fr</td>
+                    <td style="text-align:center;" class="listtext">30.08.2019</td>
+                    <td style="text-align:center;" class="listtext">18:00</td>
+                    <td style="text-align:center;" class="listtext">2</td>
                     <td class="listtext">SV Deggenhausertal</td>
+                    <td class="listtext">FC Rot-Weiß Salem</td>
                     <td style="text-align:center;" class="listtext"></td>
                     <td class="listtext">
                         
@@ -179,7 +177,131 @@
 
 
 
-	<img class="dfb-icon" title="Spiel ist geplant" src="/customize/7.30.80.3840/dfbnet/images/icons/spiel_geplant.gif" alt="">
+	<img class="dfb-icon" title="Spiel ist geplant" src="/customize/7.41.18.4011/dfbnet/images/icons/spiel_geplant.gif" alt="">
+
+
+
+                        
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	<img class="dfb-icon" title="In Planung" src="/customize/7.41.18.4011/dfbnet/images/icons/mannschaft_edit.gif" alt="">
+
+
+
+                        
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                        
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                    </td>
+                </tr>
+            
+                
+                    
+                    <tr class="jlistTrOdd">
+                          <td style="text-align:center;" colspan="14" class="listtext">
+                              <b>
+                                <span>Herren, Bezirksfreundschaftsspiele, Bezirk Bodensee</span> <br>
+                                <span>530020 - Freundschaftsspiel, FS/H/B-FS/B-HRB/1</span>
+                              </b>
+                          </td>
+                      </tr>
+                
+
+                
+                <tr class="jlistTrEven">
+                    <td class="listtext">
+                        
+                            <a id="open_match_0283V3B0QG000000VS5489B3VS29958H" class="dfb-left dfb-link" href="/spielplus/mod_sbo/spielplan/anzeige.do?selektiertesSpielId=0283V3B0QG000000VS5489B3VS29958H&amp;historisch=false&amp;neuAnsetzungsnr=&amp;versionPruefer=&amp;refereeActive=false&amp;torschuetzenBearbeiten=false&amp;listTyp=1">
+                                <img class="dfb-icon" title="Spielbericht bearbeiten" src="/customize/7.41.18.4011/dfbnet/images/icons/spiel_details_edit.gif" alt="Bearbeiten">
+                            </a>
+                        
+                        
+                        
+                        
+                    </td>
+                    <td class="listtext">
+                        
+                        
+                    </td>
+                    <td style="text-align:center;" class="listtext">338</td>
+                    <td style="text-align:center;" class="listtext">So</td>
+                    <td style="text-align:center;" class="listtext">25.08.2019</td>
+                    <td style="text-align:center;" class="listtext">12:00</td>
+                    <td style="text-align:center;" class="listtext">9</td>
+                    <td class="listtext">SV Deggenhausertal 2</td>
+                    <td class="listtext">Spfr Ittendorf-Ahausen</td>
+                    <td style="text-align:center;" class="listtext"></td>
+                    <td class="listtext">
+                        
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	<img class="dfb-icon" title="Schiedsrichter ist geplant" src="/customize/7.41.18.4011/dfbnet/images/icons/spiel_schiri.gif" alt="">
 
 
 
@@ -251,131 +373,19 @@
                     <tr class="jlistTrOdd">
                           <td style="text-align:center;" colspan="14" class="listtext">
                               <b>
-                                <span>Herren, 2.Kreisliga (B), Bodensee</span> <br>
-                                <span>335017 - Meisterschaft, Kreisliga B Staffel 4</span>
+                                <span>Herren, 1.Kreisliga (A), Bodensee</span> <br>
+                                <span>335024 - Meisterschaft, Kreisliga A Staffel 3</span>
                               </b>
                           </td>
                       </tr>
                 
 
                 
-                <tr class="jlistTrEven">
-                    <td class="listtext">
-                        
-                            <a id="open_match_02446ODF40000000VS54898DVSP965K1" class="dfb-left dfb-link" href="/spielplus/mod_sbo/spielplan/anzeige.do?selektiertesSpielId=02446ODF40000000VS54898DVSP965K1&amp;historisch=false&amp;neuAnsetzungsnr=&amp;versionPruefer=&amp;refereeActive=false&amp;torschuetzenBearbeiten=false&amp;listTyp=1">
-                                <img class="dfb-icon" title="Spielbericht bearbeiten" src="/customize/7.30.80.3840/dfbnet/images/icons/spiel_details_edit.gif" alt="Bearbeiten">
-                            </a>
-                        
-                        
-                        
-                        
-                    </td>
-                    <td class="listtext">
-                        
-                        
-                    </td>
-                    <td style="text-align:center;" class="listtext">125</td>
-                    <td style="text-align:center;" class="listtext">Sa</td>
-                    <td style="text-align:center;" class="listtext">08.06.2019</td>
-                    <td style="text-align:center;" class="listtext">14:00</td>
-                    <td style="text-align:center;" class="listtext">21</td>
-                    <td class="listtext">SV Deggenhausertal 2</td>
-                    <td class="listtext">RSV Hagnau</td>
-                    <td style="text-align:center;" class="listtext"></td>
-                    <td class="listtext">
-                        
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-	<img class="dfb-icon" title="Schiedsrichter ist geplant" src="/customize/7.30.80.3840/dfbnet/images/icons/spiel_schiri.gif" alt="">
-
-
-
-                        
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-                        
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-                        
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-                    </td>
-                </tr>
-            
-                
-
-                
                 <tr class="jlistTrOdd">
                     <td class="listtext">
                         
-                            <a id="open_match_02446ODF5C000000VS54898DVSP965K1" class="dfb-left dfb-link" href="/spielplus/mod_sbo/spielplan/anzeige.do?selektiertesSpielId=02446ODF5C000000VS54898DVSP965K1&amp;historisch=false&amp;neuAnsetzungsnr=&amp;versionPruefer=&amp;refereeActive=false&amp;torschuetzenBearbeiten=false&amp;listTyp=1">
-                                <img class="dfb-icon" title="Spielbericht bearbeiten" src="/customize/7.30.80.3840/dfbnet/images/icons/spiel_details_edit.gif" alt="Bearbeiten">
+                            <a id="open_match_027NVDDHSC000000VS5489B4VTN1DS1I" class="dfb-left dfb-link" href="/spielplus/mod_sbo/spielplan/anzeige.do?selektiertesSpielId=027NVDDHSC000000VS5489B4VTN1DS1I&amp;historisch=false&amp;neuAnsetzungsnr=&amp;versionPruefer=&amp;refereeActive=false&amp;torschuetzenBearbeiten=false&amp;listTyp=1">
+                                <img class="dfb-icon" title="Spielbericht bearbeiten" src="/customize/7.41.18.4011/dfbnet/images/icons/spiel_details_edit.gif" alt="Bearbeiten">
                             </a>
                         
                         
@@ -386,13 +396,13 @@
                         
                         
                     </td>
-                    <td style="text-align:center;" class="listtext">131</td>
+                    <td style="text-align:center;" class="listtext">003</td>
                     <td style="text-align:center;" class="listtext">So</td>
-                    <td style="text-align:center;" class="listtext">16.06.2019</td>
-                    <td style="text-align:center;" class="listtext">12:30</td>
-                    <td style="text-align:center;" class="listtext">22</td>
-                    <td class="listtext">Türk. Arbeiterverein Überlingen</td>
+                    <td style="text-align:center;" class="listtext">01.09.2019</td>
+                    <td style="text-align:center;" class="listtext">13:00</td>
+                    <td style="text-align:center;" class="listtext">1</td>
                     <td class="listtext">SV Deggenhausertal 2</td>
+                    <td class="listtext">TuS Immenstaad</td>
                     <td style="text-align:center;" class="listtext"></td>
                     <td class="listtext">
                         
@@ -413,7 +423,7 @@
 
 
 
-	<img class="dfb-icon" title="Spiel ist geplant" src="/customize/7.30.80.3840/dfbnet/images/icons/spiel_geplant.gif" alt="">
+	<img class="dfb-icon" title="Spiel ist geplant" src="/customize/7.41.18.4011/dfbnet/images/icons/spiel_geplant.gif" alt="">
 
 
 
@@ -496,8 +506,8 @@
                 <tr class="jlistTrEven">
                     <td class="listtext">
                         
-                            <a id="open_match_024482BQQS000000VS54898DVSP965K1" class="dfb-left dfb-link" href="/spielplus/mod_sbo/spielplan/anzeige.do?selektiertesSpielId=024482BQQS000000VS54898DVSP965K1&amp;historisch=false&amp;neuAnsetzungsnr=&amp;versionPruefer=&amp;refereeActive=false&amp;torschuetzenBearbeiten=false&amp;listTyp=1">
-                                <img class="dfb-icon" title="Spielbericht bearbeiten" src="/customize/7.30.80.3840/dfbnet/images/icons/spiel_details_edit.gif" alt="Bearbeiten">
+                            <a id="open_match_027ONL2RQO000000VS5489B4VTN1DS1I" class="dfb-left dfb-link" href="/spielplus/mod_sbo/spielplan/anzeige.do?selektiertesSpielId=027ONL2RQO000000VS5489B4VTN1DS1I&amp;historisch=false&amp;neuAnsetzungsnr=&amp;versionPruefer=&amp;refereeActive=false&amp;torschuetzenBearbeiten=false&amp;listTyp=1">
+                                <img class="dfb-icon" title="Spielbericht bearbeiten" src="/customize/7.41.18.4011/dfbnet/images/icons/spiel_details_edit.gif" alt="Bearbeiten">
                             </a>
                         
                         
@@ -508,13 +518,13 @@
                         
                         
                     </td>
-                    <td style="text-align:center;" class="listtext">182</td>
-                    <td style="text-align:center;" class="listtext">Sa</td>
-                    <td style="text-align:center;" class="listtext">15.06.2019</td>
-                    <td style="text-align:center;" class="listtext">14:00</td>
-                    <td style="text-align:center;" class="listtext">26</td>
-                    <td class="listtext">FC Steißlingen 4 o.W.</td>
+                    <td style="text-align:center;" class="listtext">001</td>
+                    <td style="text-align:center;" class="listtext">Fr</td>
+                    <td style="text-align:center;" class="listtext">30.08.2019</td>
+                    <td style="text-align:center;" class="listtext">19:00</td>
+                    <td style="text-align:center;" class="listtext">1</td>
                     <td class="listtext">SV Deggenhausertal 3</td>
+                    <td class="listtext">SG Gallmannsweil/B.K.B. 2</td>
                     <td style="text-align:center;" class="listtext"></td>
                     <td class="listtext">
                         
@@ -535,7 +545,7 @@
 
 
 
-	<img class="dfb-icon" title="Spiel ist geplant" src="/customize/7.30.80.3840/dfbnet/images/icons/spiel_geplant.gif" alt="">
+	<img class="dfb-icon" title="Spiel ist geplant" src="/customize/7.41.18.4011/dfbnet/images/icons/spiel_geplant.gif" alt="">
 
 
 
@@ -556,6 +566,8 @@
 
 
 
+
+	<img class="dfb-icon" title="In Planung" src="/customize/7.41.18.4011/dfbnet/images/icons/mannschaft_edit.gif" alt="">
 
 
 
@@ -607,8 +619,8 @@
                     <tr class="jlistTrOdd">
                           <td style="text-align:center;" colspan="14" class="listtext">
                               <b>
-                                <span>Frauen, 1.Kreisliga (A), Bodensee</span> <br>
-                                <span>335684 - Meisterschaft, Frauen Kreisliga A</span>
+                                <span>Frauen, Landesfreundschaftsspiele, Südbaden</span> <br>
+                                <span>530019 - Freundschaftsspiel, FS/F/L-FS/SBFV/1</span>
                               </b>
                           </td>
                       </tr>
@@ -618,8 +630,8 @@
                 <tr class="jlistTrOdd">
                     <td class="listtext">
                         
-                            <a id="open_match_024910VPBS000000VS54898DVVMASAV2" class="dfb-left dfb-link" href="/spielplus/mod_sbo/spielplan/anzeige.do?selektiertesSpielId=024910VPBS000000VS54898DVVMASAV2&amp;historisch=false&amp;neuAnsetzungsnr=&amp;versionPruefer=&amp;refereeActive=false&amp;torschuetzenBearbeiten=false&amp;listTyp=1">
-                                <img class="dfb-icon" title="Spielbericht bearbeiten" src="/customize/7.30.80.3840/dfbnet/images/icons/spiel_details_edit.gif" alt="Bearbeiten">
+                            <a id="open_match_0280BJD280000000VS5489B3VS29958H" class="dfb-left dfb-link" href="/spielplus/mod_sbo/spielplan/anzeige.do?selektiertesSpielId=0280BJD280000000VS5489B3VS29958H&amp;historisch=false&amp;neuAnsetzungsnr=&amp;versionPruefer=&amp;refereeActive=false&amp;torschuetzenBearbeiten=false&amp;listTyp=1">
+                                <img class="dfb-icon" title="Spielbericht bearbeiten" src="/customize/7.41.18.4011/dfbnet/images/icons/spiel_details_edit.gif" alt="Bearbeiten">
                             </a>
                         
                         
@@ -630,13 +642,13 @@
                         
                         
                     </td>
-                    <td style="text-align:center;" class="listtext">086</td>
-                    <td style="text-align:center;" class="listtext">Sa</td>
-                    <td style="text-align:center;" class="listtext">15.06.2019</td>
-                    <td style="text-align:center;" class="listtext">16:00</td>
-                    <td style="text-align:center;" class="listtext">18</td>
-                    <td class="listtext">SG Owingen-Billafingen/Bonndorf 2 (9er)</td>
-                    <td class="listtext">SV Deggenhausertal 2</td>
+                    <td style="text-align:center;" class="listtext">069</td>
+                    <td style="text-align:center;" class="listtext">Di</td>
+                    <td style="text-align:center;" class="listtext">27.08.2019</td>
+                    <td style="text-align:center;" class="listtext">19:00</td>
+                    <td style="text-align:center;" class="listtext">10</td>
+                    <td class="listtext">SV Deggenhausertal</td>
+                    <td class="listtext">FC Uhldingen</td>
                     <td style="text-align:center;" class="listtext"></td>
                     <td class="listtext">
                         
@@ -657,7 +669,7 @@
 
 
 
-	<img class="dfb-icon" title="Spiel ist geplant" src="/customize/7.30.80.3840/dfbnet/images/icons/spiel_geplant.gif" alt="">
+	<img class="dfb-icon" title="Schiedsrichter ist geplant" src="/customize/7.41.18.4011/dfbnet/images/icons/spiel_schiri.gif" alt="">
 
 
 
@@ -678,6 +690,8 @@
 
 
 
+
+	<img class="dfb-icon" title="In Planung" src="/customize/7.41.18.4011/dfbnet/images/icons/mannschaft_edit.gif" alt="">
 
 
 
@@ -729,8 +743,8 @@
                     <tr class="jlistTrOdd">
                           <td style="text-align:center;" colspan="14" class="listtext">
                               <b>
-                                <span>B-Juniorinnen, Bezirkspokal, Bezirk Bodensee</span> <br>
-                                <span>930653 - Teamsport Grünvogel Bezirkspokal, Finale</span>
+                                <span>Frauen, Bezirksfreundschaftsspiele, Bezirk Bodensee</span> <br>
+                                <span>530049 - Freundschaftsspiel, FS/F/B-FS/B-HRB/1</span>
                               </b>
                           </td>
                       </tr>
@@ -740,8 +754,8 @@
                 <tr class="jlistTrEven">
                     <td class="listtext">
                         
-                            <a id="open_match_024HL8API0000000VS54898DVVEP3SO5" class="dfb-left dfb-link" href="/spielplus/mod_sbo/spielplan/anzeige.do?selektiertesSpielId=024HL8API0000000VS54898DVVEP3SO5&amp;historisch=false&amp;neuAnsetzungsnr=&amp;versionPruefer=&amp;refereeActive=false&amp;torschuetzenBearbeiten=false&amp;listTyp=1">
-                                <img class="dfb-icon" title="Spielbericht bearbeiten" src="/customize/7.30.80.3840/dfbnet/images/icons/spiel_details_edit.gif" alt="Bearbeiten">
+                            <a id="open_match_027P92TGG0000000VS5489B3VVRDDT7H" class="dfb-left dfb-link" href="/spielplus/mod_sbo/spielplan/anzeige.do?selektiertesSpielId=027P92TGG0000000VS5489B3VVRDDT7H&amp;historisch=false&amp;neuAnsetzungsnr=&amp;versionPruefer=&amp;refereeActive=false&amp;torschuetzenBearbeiten=false&amp;listTyp=1">
+                                <img class="dfb-icon" title="Spielbericht bearbeiten" src="/customize/7.41.18.4011/dfbnet/images/icons/spiel_details_edit.gif" alt="Bearbeiten">
                             </a>
                         
                         
@@ -752,13 +766,13 @@
                         
                         
                     </td>
-                    <td style="text-align:center;" class="listtext">009</td>
-                    <td style="text-align:center;" class="listtext">So</td>
-                    <td style="text-align:center;" class="listtext">09.06.2019</td>
-                    <td style="text-align:center;" class="listtext">13:00</td>
-                    <td style="text-align:center;" class="listtext">1</td>
-                    <td class="listtext">SC Konstanz-Wollmatingen</td>
-                    <td class="listtext">SG Deggenhausertal</td>
+                    <td style="text-align:center;" class="listtext">006</td>
+                    <td style="text-align:center;" class="listtext">Fr</td>
+                    <td style="text-align:center;" class="listtext">23.08.2019</td>
+                    <td style="text-align:center;" class="listtext">18:30</td>
+                    <td style="text-align:center;" class="listtext">9</td>
+                    <td class="listtext">SV Deggenhausertal 2</td>
+                    <td class="listtext">TuS Immenstaad</td>
                     <td style="text-align:center;" class="listtext"></td>
                     <td class="listtext">
                         
@@ -779,7 +793,7 @@
 
 
 
-	<img class="dfb-icon" title="Schiedsrichter ist geplant" src="/customize/7.30.80.3840/dfbnet/images/icons/spiel_schiri.gif" alt="">
+	<img class="dfb-icon" title="Schiedsrichter ist geplant" src="/customize/7.41.18.4011/dfbnet/images/icons/spiel_schiri.gif" alt="">
 
 
 
@@ -801,7 +815,7 @@
 
 
 
-	<img class="dfb-icon" title="In Planung" src="/customize/7.30.80.3840/dfbnet/images/icons/mannschaft_edit.gif" alt="">
+	<img class="dfb-icon" title="In Planung" src="/customize/7.41.18.4011/dfbnet/images/icons/mannschaft_edit.gif" alt="">
 
 
 

@@ -4,6 +4,9 @@ var moment = require("moment");
 var fs = require("fs");
 var path = require("path");
 var Canvas = require("canvas");
+Canvas.registerFont(fontFile('built titling bd.ttf'), {
+  family: 'customFont'
+})
 
 function readModuleFile(path, callback) {
   try {
@@ -59,16 +62,18 @@ readModuleFile("./aktuell.txt", function (err, words) {
   }
   sortByTimeStamp();
 
-  spielplan.forEach((element) => {
-    strSpielplan += fillText(element);
-  });
+  // spielplan.forEach((element, index) => {
+  //   if (index <= 9) {
+  //     strSpielplan += fillText(element);
+  //   }
+  // });
   writeOnImage();
 });
 
 function parseMetaData(treEle) {
   var info = treEle.children[0].children[0].children[0].children[0].data;
-  var words = info.split(',');
-  return words[0];
+  var words = info.split(",");
+  return words[0] + " - " + words[1];
 }
 
 function parseSpielData(treEle) {
@@ -104,27 +109,40 @@ function sortByTimeStamp() {
 }
 
 function fontFile(name) {
-  return path.join(__dirname, "/fonts/", name);
+  var fontPath = path.join(__dirname, "/fonts/", name);
+  return fontPath;
 }
 
 function writeOnImage() {
   //   Canvas.registerFont(fontFile("ARBLI___0.ttf"), { family: "ARBLI___0" });
 
-  var canvas = Canvas.createCanvas(1275, 816);
+  var canvas = Canvas.createCanvas(1600, 868);
   var ctx = canvas.getContext("2d");
 
   var Image = Canvas.Image;
   var img = new Image();
-  img.src = "./image/current.png";
+  img.src = "./image/current.jpg";
 
   ctx.clearRect(0, 0, canvas.width, canvas.height);
   ctx.drawImage(img, 0, 0, canvas.width, canvas.height);
 
-  ctx.fillStyle = "white";
-  ctx.textAlign = "center";
+  ctx.fillStyle = "#ededed";
 
-  ctx.font = "bold 20px Courier New";
-  ctx.fillText(strSpielplan, 500, 125);
+  //ctx.font = "bold 20px Courier New";
+  ctx.font = '20px "customFont"';
+  var left = 350;
+  var top = 200;
+
+  ctx.textAlign = "left";
+  spielplan.forEach(element => {
+    var text = fillText(element);
+    ctx.fillText(text, left, top);
+    top += 68;
+  });
+
+  ctx.font = '40px Arial';
+  ctx.fillStyle = "#9c3d3d";
+  ctx.fillText(spielplan[0].spieldata.datum + " - " + spielplan[spielplan.length - 1].spieldata.datum, 620, 140);
 
   canvas
     .createPNGStream()
@@ -134,12 +152,37 @@ var lastDate = "";
 
 function fillText(element) {
   var rowStr;
-  if (lastDate === element.spieldata.tag) {
-    rowStr = element.staffelInfo + " - " + element.spieldata.zeit + ": " + element.spieldata.heim + " : " + element.spieldata.gast + "\n\n";
-  } else {
-    rowStr = element.spieldata.tag + "," + element.spieldata.datum + "\n" + element.staffelInfo + " - ";
-    rowStr += element.spieldata.zeit + ": " + element.spieldata.heim + " : " + element.spieldata.gast + "\n\n";
-  }
-  lastDate = element.spieldata.tag;
+  // if (lastDate === element.spieldata.tag) {
+  //   rowStr =
+  //     element.staffelInfo +
+  //     " - " +
+  //     element.spieldata.zeit +
+  //     ": " +
+  //     element.spieldata.heim +
+  //     " : " +
+  //     element.spieldata.gast +
+  //     "\n\n";
+  // } else {
+  rowStr =
+    element.spieldata.tag +
+    "," +
+    element.spieldata.datum +
+    " - " +
+    element.staffelInfo +
+    "\n";
+  rowStr +=
+    element.spieldata.zeit +
+    " Uhr: " +
+    element.spieldata.heim +
+    " : " +
+    element.spieldata.gast +
+    "\n\n";
+  //}
+  //lastDate = element.spieldata.tag;
+  rowStr = killSpaces(rowStr);
   return rowStr;
+}
+
+function killSpaces(rowStr) {
+  return rowStr.trim();
 }
