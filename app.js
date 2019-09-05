@@ -116,12 +116,14 @@ function fontFile(name) {
 function writeOnImage() {
   //   Canvas.registerFont(fontFile("ARBLI___0.ttf"), { family: "ARBLI___0" });
 
-  var canvas = Canvas.createCanvas(1600, 868);
+  var canvas = Canvas.createCanvas(4961, 3701);
   var ctx = canvas.getContext("2d");
 
   var Image = Canvas.Image;
   var img = new Image();
-  img.src = "./image/current.jpg";
+  //img.src = "./image/current.jpg";
+  img.src = "./image/Spieltag_SVD_14zeilig.JPG";
+  //img.src = "./image/Spieltag_SVD_Storyformat.JPG";
 
   ctx.clearRect(0, 0, canvas.width, canvas.height);
   ctx.drawImage(img, 0, 0, canvas.width, canvas.height);
@@ -129,20 +131,20 @@ function writeOnImage() {
   ctx.fillStyle = "#ededed";
 
   //ctx.font = "bold 20px Courier New";
-  ctx.font = '20px "customFont"';
-  var left = 350;
-  var top = 200;
+  ctx.font = '80px "customFont"';
+  var left = 1062;
+  var top = 625;
 
   ctx.textAlign = "left";
   spielplan.forEach(element => {
     var text = fillText(element);
     ctx.fillText(text, left, top);
-    top += 68;
+    top += 420;
   });
 
-  ctx.font = '40px Arial';
+  ctx.font = '140px Arial';
   ctx.fillStyle = "#9c3d3d";
-  ctx.fillText(spielplan[0].spieldata.datum + " - " + spielplan[spielplan.length - 1].spieldata.datum, 620, 140);
+  ctx.fillText(spielplan[0].spieldata.datum + " - " + spielplan[spielplan.length - 1].spieldata.datum, 1920, 440);
 
   canvas
     .createPNGStream()
