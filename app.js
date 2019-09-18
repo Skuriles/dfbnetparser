@@ -4,7 +4,9 @@ var moment = require("moment");
 var fs = require("fs");
 var path = require("path");
 var Canvas = require("canvas");
-Canvas.registerFont(fontFile('built titling bd.ttf'), {
+//Canvas.registerFont(fontFile('built titling bd.ttf'), {
+//Canvas.registerFont(fontFile('built titling sb.ttf'), {
+Canvas.registerFont(fontFile('MAKISUPA.ttf'), {
   family: 'customFont'
 })
 
@@ -73,16 +75,22 @@ readModuleFile("./aktuell.txt", function (err, words) {
 function parseMetaData(treEle) {
   var info = treEle.children[0].children[0].children[0].children[0].data;
   var words = info.split(",");
-  return words[0] + " - " + words[1];
+  return words[0] + " -" + words[1];
 }
 
 function parseSpielData(treEle) {
   var tag = treEle.children[3].children[0].data;
   var datum = treEle.children[4].children[0].data;
+  datum = datum.replace("2019", "");
   var zeit = treEle.children[5].children[0].data;
   var spieltag = treEle.children[6].children[0].data;
   var heim = treEle.children[7].children[0].data;
+  heim = heim.replace("SV Deggenhausertal", "SVD");
+  heim = heim.replace("SG Deggenhausertal", "SG D'tal");
+  heim = heim.replace("SC Konstanz-Wollmatingen", "SC Konstanz-Woll");
   var gast = treEle.children[8].children[0].data;
+  gast = gast.replace("SV Deggenhausertal", "SVD");
+  gast = gast.replace("SG Deggenhausertal", "SG D'tal");
   return {
     tag,
     datum,
@@ -131,15 +139,25 @@ function writeOnImage() {
   ctx.fillStyle = "#ededed";
 
   //ctx.font = "bold 20px Courier New";
-  ctx.font = '80px "customFont"';
+  ctx.font = '85px "customFont"';
   var left = 1062;
-  var top = 625;
+  var top = 660;
 
   ctx.textAlign = "left";
+  var lastdate = "";
   spielplan.forEach(element => {
+    if (element.spieldata.datum == lastDate) {
+      element.spieldata.datum = "";
+      element.spieldata.tag = "";
+      left = 1567;
+    } else {
+      left = 1062;
+    }
+    lastDate = element.spieldata.datum;
     var text = fillText(element);
     ctx.fillText(text, left, top);
-    top += 420;
+    //top += 420;
+    top += 210;
   });
 
   ctx.font = '140px Arial';
@@ -154,33 +172,30 @@ var lastDate = "";
 
 function fillText(element) {
   var rowStr;
-  // if (lastDate === element.spieldata.tag) {
-  //   rowStr =
-  //     element.staffelInfo +
-  //     " - " +
-  //     element.spieldata.zeit +
-  //     ": " +
-  //     element.spieldata.heim +
-  //     " : " +
-  //     element.spieldata.gast +
-  //     "\n\n";
-  // } else {
-  rowStr =
-    element.spieldata.tag +
-    "," +
-    element.spieldata.datum +
-    " - " +
-    element.staffelInfo +
-    "\n";
-  rowStr +=
-    element.spieldata.zeit +
-    " Uhr: " +
-    element.spieldata.heim +
-    " : " +
-    element.spieldata.gast +
-    "\n\n";
-  //}
-  //lastDate = element.spieldata.tag;
+  if (element.spieldata.tag == "" || element.spieldata.datum == "") {
+    rowStr =
+      element.staffelInfo + " " +
+      element.spieldata.zeit +
+      " Uhr: " +
+      element.spieldata.heim +
+      " : " +
+      element.spieldata.gast +
+      "\n\n";
+  } else {
+    rowStr =
+      element.spieldata.tag +
+      ", " +
+      element.spieldata.datum +
+      " - " +
+      element.staffelInfo + " " +
+      element.spieldata.zeit +
+      " Uhr: " +
+      element.spieldata.heim +
+      " : " +
+      element.spieldata.gast +
+      "\n\n";
+  }
+
   rowStr = killSpaces(rowStr);
   return rowStr;
 }
