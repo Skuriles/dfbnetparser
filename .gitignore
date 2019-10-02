@@ -60,7 +60,7 @@ typings/
 # next.js build output
 .next
 
-*.jpg
-*.jpeg
-*.png
-*.gif
+# *.jpg
+# *.jpeg
+# *.png
+# *.gif
