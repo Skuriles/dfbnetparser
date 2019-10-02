@@ -6,9 +6,9 @@ var path = require("path");
 var Canvas = require("canvas");
 //Canvas.registerFont(fontFile('built titling bd.ttf'), {
 //Canvas.registerFont(fontFile('built titling sb.ttf'), {
-Canvas.registerFont(fontFile('MAKISUPA.ttf'), {
-  family: 'customFont'
-})
+Canvas.registerFont(fontFile("MAKISUPA.ttf"), {
+  family: "customFont"
+});
 
 function readModuleFile(path, callback) {
   try {
@@ -22,15 +22,16 @@ function readModuleFile(path, callback) {
 var spielplan = [];
 var strSpielplan = "";
 
-readModuleFile("./aktuell.txt", function (err, words) {
+readModuleFile("./aktuell.txt", function(err, words) {
   var handler = new htmlparser.DefaultHandler(
-    function (error, dom) {
+    function(error, dom) {
       if (error) {
         console.log(error);
       } else {
         console.log("finished");
       }
-    }, {
+    },
+    {
       verbose: false,
       ignoreWhitespace: true
     }
@@ -75,7 +76,8 @@ readModuleFile("./aktuell.txt", function (err, words) {
 function parseMetaData(treEle) {
   var info = treEle.children[0].children[0].children[0].children[0].data;
   var words = info.split(",");
-  return words[0] + " -" + words[1];
+  var staffel = words[1].replace("Kleinfeldklasse", "Kleinfeldkl");
+  return words[0] + " -" + staffel;
 }
 
 function parseSpielData(treEle) {
@@ -102,7 +104,7 @@ function parseSpielData(treEle) {
 }
 
 function sortByTimeStamp() {
-  spielplan = spielplan.sort(function (a, b) {
+  spielplan = spielplan.sort(function(a, b) {
     var datum1 = moment(a.spieldata["datum"], "DD.MM.YYYY").valueOf();
     var datum2 = moment(b.spieldata["datum"], "DD.MM.YYYY").valueOf();
     if (datum1 == datum2) {
@@ -147,22 +149,29 @@ function writeOnImage() {
   var lastdate = "";
   spielplan.forEach(element => {
     if (element.spieldata.datum == lastDate) {
+      lastDate = element.spieldata.datum;
       element.spieldata.datum = "";
       element.spieldata.tag = "";
       left = 1567;
     } else {
+      lastDate = element.spieldata.datum;
       left = 1062;
     }
-    lastDate = element.spieldata.datum;
     var text = fillText(element);
     ctx.fillText(text, left, top);
     //top += 420;
     top += 210;
   });
 
-  ctx.font = '140px Arial';
+  ctx.font = "140px Arial";
   ctx.fillStyle = "#9c3d3d";
-  ctx.fillText(spielplan[0].spieldata.datum + " - " + spielplan[spielplan.length - 1].spieldata.datum, 1920, 440);
+  ctx.fillText(
+    spielplan[0].spieldata.datum +
+      " - " +
+      spielplan[spielplan.length - 1].spieldata.datum,
+    1920,
+    440
+  );
 
   canvas
     .createPNGStream()
@@ -174,7 +183,8 @@ function fillText(element) {
   var rowStr;
   if (element.spieldata.tag == "" || element.spieldata.datum == "") {
     rowStr =
-      element.staffelInfo + " " +
+      element.staffelInfo +
+      " " +
       element.spieldata.zeit +
       " Uhr: " +
       element.spieldata.heim +
@@ -187,7 +197,8 @@ function fillText(element) {
       ", " +
       element.spieldata.datum +
       " - " +
-      element.staffelInfo + " " +
+      element.staffelInfo +
+      " " +
       element.spieldata.zeit +
       " Uhr: " +
       element.spieldata.heim +
