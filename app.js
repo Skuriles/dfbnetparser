@@ -22,16 +22,15 @@ function readModuleFile(path, callback) {
 var spielplan = [];
 var strSpielplan = "";
 
-readModuleFile("./aktuell.txt", function(err, words) {
+readModuleFile("./aktuell.txt", function (err, words) {
   var handler = new htmlparser.DefaultHandler(
-    function(error, dom) {
+    function (error, dom) {
       if (error) {
         console.log(error);
       } else {
         console.log("finished");
       }
-    },
-    {
+    }, {
       verbose: false,
       ignoreWhitespace: true
     }
@@ -50,11 +49,12 @@ readModuleFile("./aktuell.txt", function(err, words) {
       treEle.children[0].children[0].name == "b"
     ) {
       staffelInfo = parseMetaData(treEle);
+      staffelInfo = staffelInfo.replace("freundschaftsspiele", "-FS");
       continue;
     }
     if (
-      treEle.attribs.class == "jlistTrEven" ||
-      treEle.attribs.class == "jlistTrOdd"
+      treEle.attribs.class == "jlistTrEven " ||
+      treEle.attribs.class == "jlistTrOdd "
     ) {
       var spieldata = parseSpielData(treEle);
       spielplan.push({
@@ -77,13 +77,14 @@ function parseMetaData(treEle) {
   var info = treEle.children[0].children[0].children[0].children[0].data;
   var words = info.split(",");
   var staffel = words[1].replace("Kleinfeldklasse", "Kleinfeldkl");
+  var staffel = words[1].replace("1.Kreisliga (A)", "Kreisliga");
   return words[0] + " -" + staffel;
 }
 
 function parseSpielData(treEle) {
   var tag = treEle.children[3].children[0].data;
   var datum = treEle.children[4].children[0].data;
-  datum = datum.replace("2019", "");
+  datum = datum.replace("2020", "");
   var zeit = treEle.children[5].children[0].data;
   var spieltag = treEle.children[6].children[0].data;
   var heim = treEle.children[7].children[0].data;
@@ -93,6 +94,7 @@ function parseSpielData(treEle) {
   var gast = treEle.children[8].children[0].data;
   gast = gast.replace("SV Deggenhausertal", "SVD");
   gast = gast.replace("SG Deggenhausertal", "SG D'tal");
+  heim = heim.replace("SG Sipplingen/Bodman-Ludwigsh.", "SG Sipp./Bo-Lu.");
   return {
     tag,
     datum,
@@ -104,7 +106,7 @@ function parseSpielData(treEle) {
 }
 
 function sortByTimeStamp() {
-  spielplan = spielplan.sort(function(a, b) {
+  spielplan = spielplan.sort(function (a, b) {
     var datum1 = moment(a.spieldata["datum"], "DD.MM.YYYY").valueOf();
     var datum2 = moment(b.spieldata["datum"], "DD.MM.YYYY").valueOf();
     if (datum1 == datum2) {
@@ -165,13 +167,7 @@ function writeOnImage() {
 
   ctx.font = "140px Arial";
   ctx.fillStyle = "#9c3d3d";
-  ctx.fillText(
-    spielplan[0].spieldata.datum +
-      " - " +
-      spielplan[spielplan.length - 1].spieldata.datum,
-    1920,
-    440
-  );
+  ctx.fillText(spielplan[0].spieldata.datum + " - " + lastDate, 1920, 440);
 
   canvas
     .createPNGStream()
