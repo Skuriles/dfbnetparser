@@ -7,7 +7,7 @@ var Canvas = require("canvas");
 //Canvas.registerFont(fontFile('built titling bd.ttf'), {
 //Canvas.registerFont(fontFile('built titling sb.ttf'), {
 Canvas.registerFont(fontFile("MAKISUPA.ttf"), {
-  family: "customFont"
+  family: "customFont",
 });
 
 function readModuleFile(path, callback) {
@@ -30,9 +30,10 @@ readModuleFile("./aktuell.txt", function (err, words) {
       } else {
         console.log("finished");
       }
-    }, {
+    },
+    {
       verbose: false,
-      ignoreWhitespace: true
+      ignoreWhitespace: true,
     }
   );
   var parser = new htmlparser.Parser(handler);
@@ -59,7 +60,7 @@ readModuleFile("./aktuell.txt", function (err, words) {
       var spieldata = parseSpielData(treEle);
       spielplan.push({
         staffelInfo,
-        spieldata
+        spieldata,
       });
     }
   }
@@ -86,7 +87,12 @@ function parseSpielData(treEle) {
   var datum = treEle.children[4].children[0].data;
   datum = datum.replace("2020", "");
   var zeit = treEle.children[5].children[0].data;
-  var spieltag = treEle.children[6].children[0].data;
+  var spieltag;
+  if (!treEle.children[6].children) {
+    spieltag = "FS";
+  } else {
+    spieltag = treEle.children[6].children[0].data;
+  }
   var heim = treEle.children[7].children[0].data;
   heim = heim.replace("SV Deggenhausertal", "SVD");
   heim = heim.replace("SG Deggenhausertal", "SG D'tal");
@@ -101,7 +107,7 @@ function parseSpielData(treEle) {
     zeit,
     spieltag,
     heim,
-    gast
+    gast,
   };
 }
 
@@ -149,7 +155,7 @@ function writeOnImage() {
 
   ctx.textAlign = "left";
   var lastdate = "";
-  spielplan.forEach(element => {
+  spielplan.forEach((element) => {
     if (element.spieldata.datum == lastDate) {
       lastDate = element.spieldata.datum;
       element.spieldata.datum = "";
