@@ -9,6 +9,8 @@ var Canvas = require("canvas");
 Canvas.registerFont(fontFile("MAKISUPA.ttf"), {
   family: "customFont",
 });
+// 1 = nur jugend, 2 = nur Aktiv, 3 = alle
+var jugend = 2;
 
 function readModuleFile(path, callback) {
   try {
@@ -58,10 +60,22 @@ readModuleFile("./aktuell.txt", function (err, words) {
       treEle.attribs.class == "jlistTrOdd "
     ) {
       var spieldata = parseSpielData(treEle);
-      spielplan.push({
-        staffelInfo,
-        spieldata,
-      });
+      if (jugend == 1 && staffelInfo.indexOf("Junior") != -1) {
+        spielplan.push({
+          staffelInfo,
+          spieldata,
+        });
+        continue;
+      }
+      if (jugend == 2 && staffelInfo.indexOf("Junior") != -1) {
+        continue;
+      }
+      if (jugend != 1) {
+        spielplan.push({
+          staffelInfo,
+          spieldata,
+        });
+      }
     }
   }
   sortByTimeStamp();

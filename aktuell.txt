@@ -27,8 +27,8 @@
                         
                         
                         
-                            <a id="cmrLink_02F49H8MAG000000VS5489B3VTRLPP90" class="dfb-left dfb-link" href="/sbo-mobile/v2/#/report/02F49H8MAG000000VS5489B3VTRLPP90?dmg_company=DFBNET" target="_blank">
-                                <img class="dfb-icon" title="Einzelspielbericht (neue Version) bearbeiten" src="/customize/8.31.23.5162/dfbnet/images/icons/spiel_details_edit.gif" alt="Bearbeiten">
+                            <a id="cmrLink_02F49H8OB0000000VS5489B3VTRLPP90" class="dfb-left dfb-link" href="/sbo-mobile/v2/#/report/02F49H8OB0000000VS5489B3VTRLPP90?dmg_company=DFBNET" target="_blank">
+                                <img class="dfb-icon" title="Einzelspielbericht (neue Version) bearbeiten" src="/customize/8.31.95.5210/dfbnet/images/icons/spiel_details_edit.gif" alt="Bearbeiten">
                             </a>
                         
                         
@@ -39,13 +39,13 @@
                         
                         
                     </td>
-                    <td style="text-align:center;" class="listtext">025</td>
-                    <td style="text-align:center;" class="listtext">Sa</td>
-                    <td style="text-align:center;" class="listtext">04.09.2021</td>
-                    <td style="text-align:center;" class="listtext">16:00</td>
-                    <td style="text-align:center;" class="listtext">4</td>
-                    <td class="listtext">SG Reichenau/R.-Waldsiedl.</td>
+                    <td style="text-align:center;" class="listtext">062</td>
+                    <td style="text-align:center;" class="listtext">So</td>
+                    <td style="text-align:center;" class="listtext">03.10.2021</td>
+                    <td style="text-align:center;" class="listtext">15:00</td>
+                    <td style="text-align:center;" class="listtext">8</td>
                     <td class="listtext">SV Deggenhausertal</td>
+                    <td class="listtext">FC Hilzingen</td>
                     <td style="text-align:center;" class="listtext"></td>
                     <td class="listtext">
                         
@@ -66,7 +66,7 @@
 
 
 
-	<img class="dfb-icon" title="Schiedsrichter ist geplant" src="/customize/8.31.23.5162/dfbnet/images/icons/spiel_schiri.gif" alt="">
+	<img class="dfb-icon" title="Schiedsrichter ist geplant" src="/customize/8.31.95.5210/dfbnet/images/icons/spiel_schiri.gif" alt="">
 
 
 
@@ -87,8 +87,6 @@
 
 
 
-
-	<img class="dfb-icon" title="In Planung" src="/customize/8.31.23.5162/dfbnet/images/icons/mannschaft_edit.gif" alt="">
 
 
 
@@ -151,8 +149,8 @@
                         
                         
                         
-                            <a id="cmrLink_02F49L0PDK000000VS5489B3VTRLPP90" class="dfb-left dfb-link" href="/sbo-mobile/v2/#/report/02F49L0PDK000000VS5489B3VTRLPP90?dmg_company=DFBNET" target="_blank">
-                                <img class="dfb-icon" title="Einzelspielbericht (neue Version) bearbeiten" src="/customize/8.31.23.5162/dfbnet/images/icons/spiel_details_edit.gif" alt="Bearbeiten">
+                            <a id="cmrLink_02F49L0R8C000000VS5489B3VTRLPP90" class="dfb-left dfb-link" href="/sbo-mobile/v2/#/report/02F49L0R8C000000VS5489B3VTRLPP90?dmg_company=DFBNET" target="_blank">
+                                <img class="dfb-icon" title="Einzelspielbericht (neue Version) bearbeiten" src="/customize/8.31.95.5210/dfbnet/images/icons/spiel_details_edit.gif" alt="Bearbeiten">
                             </a>
                         
                         
@@ -163,13 +161,13 @@
                         
                         
                     </td>
-                    <td style="text-align:center;" class="listtext">028</td>
+                    <td style="text-align:center;" class="listtext">059</td>
                     <td style="text-align:center;" class="listtext">So</td>
-                    <td style="text-align:center;" class="listtext">05.09.2021</td>
-                    <td style="text-align:center;" class="listtext">15:00</td>
-                    <td style="text-align:center;" class="listtext">4</td>
-                    <td class="listtext">FC Kluftern</td>
+                    <td style="text-align:center;" class="listtext">03.10.2021</td>
+                    <td style="text-align:center;" class="listtext">13:00</td>
+                    <td style="text-align:center;" class="listtext">8</td>
                     <td class="listtext">SV Deggenhausertal 2</td>
+                    <td class="listtext">SG Herdwangen/Großschönach</td>
                     <td style="text-align:center;" class="listtext"></td>
                     <td class="listtext">
                         
@@ -190,7 +188,7 @@
 
 
 
-	<img class="dfb-icon" title="Schiedsrichter ist geplant" src="/customize/8.31.23.5162/dfbnet/images/icons/spiel_schiri.gif" alt="">
+	<img class="dfb-icon" title="Schiedsrichter ist geplant" src="/customize/8.31.95.5210/dfbnet/images/icons/spiel_schiri.gif" alt="">
 
 
 
@@ -212,7 +210,7 @@
 
 
 
-	<img class="dfb-icon" title="In Planung" src="/customize/8.31.23.5162/dfbnet/images/icons/mannschaft_edit.gif" alt="">
+	<img class="dfb-icon" title="In Planung" src="/customize/8.31.95.5210/dfbnet/images/icons/mannschaft_edit.gif" alt="">
 
 
 
@@ -275,8 +273,8 @@
                         
                         
                         
-                            <a id="cmrLink_02F4A2L6AO000000VS5489B3VTRLPP90" class="dfb-left dfb-link" href="/sbo-mobile/v2/#/report/02F4A2L6AO000000VS5489B3VTRLPP90?dmg_company=DFBNET" target="_blank">
-                                <img class="dfb-icon" title="Einzelspielbericht (neue Version) bearbeiten" src="/customize/8.31.23.5162/dfbnet/images/icons/spiel_details_edit.gif" alt="Bearbeiten">
+                            <a id="cmrLink_02F4A2L78G000000VS5489B3VTRLPP90" class="dfb-left dfb-link" href="/sbo-mobile/v2/#/report/02F4A2L78G000000VS5489B3VTRLPP90?dmg_company=DFBNET" target="_blank">
+                                <img class="dfb-icon" title="Einzelspielbericht (neue Version) bearbeiten" src="/customize/8.31.95.5210/dfbnet/images/icons/spiel_details_edit.gif" alt="Bearbeiten">
                             </a>
                         
                         
@@ -287,261 +285,13 @@
                         
                         
                     </td>
-                    <td style="text-align:center;" class="listtext">009</td>
-                    <td style="text-align:center;" class="listtext">Sa</td>
-                    <td style="text-align:center;" class="listtext">04.09.2021</td>
-                    <td style="text-align:center;" class="listtext">14:00</td>
-                    <td style="text-align:center;" class="listtext">2</td>
-                    <td class="listtext">TuS Meersburg 2</td>
-                    <td class="listtext">SV Deggenhausertal 3</td>
-                    <td style="text-align:center;" class="listtext"></td>
-                    <td class="listtext">
-                        
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-	<img class="dfb-icon" title="Schiedsrichter ist geplant" src="/customize/8.31.23.5162/dfbnet/images/icons/spiel_schiri.gif" alt="">
-
-
-
-                        
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-	<img class="dfb-icon" title="In Planung" src="/customize/8.31.23.5162/dfbnet/images/icons/mannschaft_edit.gif" alt="">
-
-
-
-                        
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-                        
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-                    </td>
-                </tr>
-            
-                
-                    <tr class="jlistTrOdd">
-                          <td style="text-align:center;" colspan="14" class="listtext">
-                              <b>
-                                <span>A-Junioren, Bezirksfreundschaftsspiele, Bezirk Bodensee</span> <br>
-                                <span>530029 - Freundschaftsspiel, FS/AJ/B-FS/B-HRB/1</span>
-                              </b>
-                          </td>
-                      </tr>
-                
-                
-                <tr class="jlistTrOdd ">
-                    <td class="listtext">
-                        
-                        
-                        
-                            <a id="cmrLink_02ERSS7580000000VS5489B3VUK1A2F6" class="dfb-left dfb-link" href="/sbo-mobile/v2/#/report/02ERSS7580000000VS5489B3VUK1A2F6?dmg_company=DFBNET" target="_blank">
-                                <img class="dfb-icon" title="Einzelspielbericht (neue Version) bearbeiten" src="/customize/8.31.23.5162/dfbnet/images/icons/spiel_details_edit.gif" alt="Bearbeiten">
-                            </a>
-                        
-                        
-                        
-                    </td>
-                    
-                    <td class="listtext">
-                        
-                        
-                    </td>
-                    <td style="text-align:center;" class="listtext">044</td>
-                    <td style="text-align:center;" class="listtext">Sa</td>
-                    <td style="text-align:center;" class="listtext">04.09.2021</td>
-                    <td style="text-align:center;" class="listtext">18:00</td>
-                    <td style="text-align:center;" class="listtext"></td>
-                    <td class="listtext">SG Salem</td>
-                    <td class="listtext">TSG Ailingen</td>
-                    <td style="text-align:center;" class="listtext"></td>
-                    <td class="listtext">
-                        
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-	<img class="dfb-icon" title="Schiedsrichter ist geplant" src="/customize/8.31.23.5162/dfbnet/images/icons/spiel_schiri.gif" alt="">
-
-
-
-                        
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-	<img class="dfb-icon" title="In Planung" src="/customize/8.31.23.5162/dfbnet/images/icons/mannschaft_edit.gif" alt="">
-
-
-
-                        
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-                        
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-                    </td>
-                </tr>
-            
-                
-                    <tr class="jlistTrOdd">
-                          <td style="text-align:center;" colspan="14" class="listtext">
-                              <b>
-                                <span>A-Junioren, Bezirksfreundschaftsspiele, Bezirk Bodensee</span> <br>
-                                <span>530048 - Freundschaftsspiel, FS/AJ/B-FS/B-HRB/1</span>
-                              </b>
-                          </td>
-                      </tr>
-                
-                
-                <tr class="jlistTrEven ">
-                    <td class="listtext">
-                        
-                        
-                        
-                            <a id="cmrLink_02FALQN674000000VS5489B3VV76U8DT" class="dfb-left dfb-link" href="/sbo-mobile/v2/#/report/02FALQN674000000VS5489B3VV76U8DT?dmg_company=DFBNET" target="_blank">
-                                <img class="dfb-icon" title="Einzelspielbericht (neue Version) bearbeiten" src="/customize/8.31.23.5162/dfbnet/images/icons/spiel_details_edit.gif" alt="Bearbeiten">
-                            </a>
-                        
-                        
-                        
-                    </td>
-                    
-                    <td class="listtext">
-                        
-                        
-                    </td>
-                    <td style="text-align:center;" class="listtext">031</td>
-                    <td style="text-align:center;" class="listtext">Di</td>
-                    <td style="text-align:center;" class="listtext">07.09.2021</td>
+                    <td style="text-align:center;" class="listtext">036</td>
+                    <td style="text-align:center;" class="listtext">Fr</td>
+                    <td style="text-align:center;" class="listtext">01.10.2021</td>
                     <td style="text-align:center;" class="listtext">19:00</td>
-                    <td style="text-align:center;" class="listtext">11</td>
-                    <td class="listtext">SG Salem</td>
-                    <td class="listtext">SV Kehlen</td>
+                    <td style="text-align:center;" class="listtext">6</td>
+                    <td class="listtext">SV Deggenhausertal 3</td>
+                    <td class="listtext">SC Markdorf 3</td>
                     <td style="text-align:center;" class="listtext"></td>
                     <td class="listtext">
                         
@@ -562,7 +312,7 @@
 
 
 
-	<img class="dfb-icon" title="Schiedsrichter ist geplant" src="/customize/8.31.23.5162/dfbnet/images/icons/spiel_schiri.gif" alt="">
+	<img class="dfb-icon" title="Schiedsrichter ist geplant" src="/customize/8.31.95.5210/dfbnet/images/icons/spiel_schiri.gif" alt="">
 
 
 
@@ -584,7 +334,7 @@
 
 
 
-	<img class="dfb-icon" title="In Planung" src="/customize/8.31.23.5162/dfbnet/images/icons/mannschaft_edit.gif" alt="">
+	<img class="dfb-icon" title="In Planung" src="/customize/8.31.95.5210/dfbnet/images/icons/mannschaft_edit.gif" alt="">
 
 
 
@@ -635,8 +385,8 @@
                     <tr class="jlistTrOdd">
                           <td style="text-align:center;" colspan="14" class="listtext">
                               <b>
-                                <span>C-Junioren, Bezirksfreundschaftsspiele, Bezirk Bodensee</span> <br>
-                                <span>530024 - Freundschaftsspiel, FS/CJ/B-FS/B-HRB/1</span>
+                                <span>A-Junioren, Bezirksliga, Bezirk Bodensee</span> <br>
+                                <span>330001 - Meisterschaft, A-Junioren Bezirksliga</span>
                               </b>
                           </td>
                       </tr>
@@ -647,8 +397,8 @@
                         
                         
                         
-                            <a id="cmrLink_02FG9J4EA8000000VS5489B3VV76U8DT" class="dfb-left dfb-link" href="/sbo-mobile/v2/#/report/02FG9J4EA8000000VS5489B3VV76U8DT?dmg_company=DFBNET" target="_blank">
-                                <img class="dfb-icon" title="Einzelspielbericht (neue Version) bearbeiten" src="/customize/8.31.23.5162/dfbnet/images/icons/spiel_details_edit.gif" alt="Bearbeiten">
+                            <a id="cmrLink_02F878M1MG000000VS5489B3VSQ68S6N" class="dfb-left dfb-link" href="/sbo-mobile/v2/#/report/02F878M1MG000000VS5489B3VSQ68S6N?dmg_company=DFBNET" target="_blank">
+                                <img class="dfb-icon" title="Einzelspielbericht (neue Version) bearbeiten" src="/customize/8.31.95.5210/dfbnet/images/icons/spiel_details_edit.gif" alt="Bearbeiten">
                             </a>
                         
                         
@@ -659,13 +409,13 @@
                         
                         
                     </td>
-                    <td style="text-align:center;" class="listtext">078</td>
-                    <td style="text-align:center;" class="listtext">So</td>
-                    <td style="text-align:center;" class="listtext">05.09.2021</td>
-                    <td style="text-align:center;" class="listtext">11:00</td>
-                    <td style="text-align:center;" class="listtext">10</td>
-                    <td class="listtext">SV Bermatingen</td>
+                    <td style="text-align:center;" class="listtext">018</td>
+                    <td style="text-align:center;" class="listtext">Sa</td>
+                    <td style="text-align:center;" class="listtext">02.10.2021</td>
+                    <td style="text-align:center;" class="listtext">13:30</td>
+                    <td style="text-align:center;" class="listtext">4</td>
                     <td class="listtext">SG Salem</td>
+                    <td class="listtext">SG Höri</td>
                     <td style="text-align:center;" class="listtext"></td>
                     <td class="listtext">
                         
@@ -686,7 +436,7 @@
 
 
 
-	<img class="dfb-icon" title="Schiedsrichter ist geplant" src="/customize/8.31.23.5162/dfbnet/images/icons/spiel_schiri.gif" alt="">
+	<img class="dfb-icon" title="Schiedsrichter ist geplant" src="/customize/8.31.95.5210/dfbnet/images/icons/spiel_schiri.gif" alt="">
 
 
 
@@ -707,8 +457,6 @@
 
 
 
-
-	<img class="dfb-icon" title="In Planung" src="/customize/8.31.23.5162/dfbnet/images/icons/mannschaft_edit.gif" alt="">
 
 
 
@@ -759,8 +507,8 @@
                     <tr class="jlistTrOdd">
                           <td style="text-align:center;" colspan="14" class="listtext">
                               <b>
-                                <span>D-Junioren, Bezirksfreundschaftsspiele, Bezirk Bodensee</span> <br>
-                                <span>530040 - Freundschaftsspiel, FS/DJ/B-FS/B-HRB/1</span>
+                                <span>A-Junioren, 1.Kreisliga (A), Bodensee</span> <br>
+                                <span>330079 - Meisterschaft, A-Junioren Kreisliga</span>
                               </b>
                           </td>
                       </tr>
@@ -771,8 +519,8 @@
                         
                         
                         
-                            <a id="cmrLink_02FI420CPC000000VS5489B4VU45R60J" class="dfb-left dfb-link" href="/sbo-mobile/v2/#/report/02FI420CPC000000VS5489B4VU45R60J?dmg_company=DFBNET" target="_blank">
-                                <img class="dfb-icon" title="Einzelspielbericht (neue Version) bearbeiten" src="/customize/8.31.23.5162/dfbnet/images/icons/spiel_details_edit.gif" alt="Bearbeiten">
+                            <a id="cmrLink_02F8NMQ450000000VS5489B3VSQ68S6N" class="dfb-left dfb-link" href="/sbo-mobile/v2/#/report/02F8NMQ450000000VS5489B3VSQ68S6N?dmg_company=DFBNET" target="_blank">
+                                <img class="dfb-icon" title="Einzelspielbericht (neue Version) bearbeiten" src="/customize/8.31.95.5210/dfbnet/images/icons/spiel_details_edit.gif" alt="Bearbeiten">
                             </a>
                         
                         
@@ -783,12 +531,1002 @@
                         
                         
                     </td>
-                    <td style="text-align:center;" class="listtext">085</td>
+                    <td style="text-align:center;" class="listtext">024</td>
                     <td style="text-align:center;" class="listtext">So</td>
-                    <td style="text-align:center;" class="listtext">05.09.2021</td>
-                    <td style="text-align:center;" class="listtext">13:00</td>
-                    <td style="text-align:center;" class="listtext">10</td>
-                    <td class="listtext">SG Großschönach</td>
+                    <td style="text-align:center;" class="listtext">03.10.2021</td>
+                    <td style="text-align:center;" class="listtext">10:30</td>
+                    <td style="text-align:center;" class="listtext">4</td>
+                    <td class="listtext">SG F.A.L. 2</td>
+                    <td class="listtext">SG Salem 2</td>
+                    <td style="text-align:center;" class="listtext"></td>
+                    <td class="listtext">
+                        
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	<img class="dfb-icon" title="Schiedsrichter ist geplant" src="/customize/8.31.95.5210/dfbnet/images/icons/spiel_schiri.gif" alt="">
+
+
+
+                        
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	<img class="dfb-icon" title="In Planung" src="/customize/8.31.95.5210/dfbnet/images/icons/mannschaft_edit.gif" alt="">
+
+
+
+                        
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                        
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                    </td>
+                </tr>
+            
+                
+                    <tr class="jlistTrOdd">
+                          <td style="text-align:center;" colspan="14" class="listtext">
+                              <b>
+                                <span>B-Junioren, Bezirkspokal, Bezirk Bodensee</span> <br>
+                                <span>930026 - Teamsport Grünvogel Bezirkspokal, Runde 1</span>
+                              </b>
+                          </td>
+                      </tr>
+                
+                
+                <tr class="jlistTrOdd ">
+                    <td class="listtext">
+                        
+                        
+                        
+                            <a id="cmrLink_02F3VLLNM0000000VS5489B3VTRLPP90" class="dfb-left dfb-link" href="/sbo-mobile/v2/#/report/02F3VLLNM0000000VS5489B3VTRLPP90?dmg_company=DFBNET" target="_blank">
+                                <img class="dfb-icon" title="Einzelspielbericht (neue Version) bearbeiten" src="/customize/8.31.95.5210/dfbnet/images/icons/spiel_details_edit.gif" alt="Bearbeiten">
+                            </a>
+                        
+                        
+                        
+                    </td>
+                    
+                    <td class="listtext">
+                        
+                        
+                    </td>
+                    <td style="text-align:center;" class="listtext">002</td>
+                    <td style="text-align:center;" class="listtext">Do</td>
+                    <td style="text-align:center;" class="listtext">30.09.2021</td>
+                    <td style="text-align:center;" class="listtext">19:30</td>
+                    <td style="text-align:center;" class="listtext">1</td>
+                    <td class="listtext">SG Bermatingen</td>
+                    <td class="listtext">TV Konstanz</td>
+                    <td style="text-align:center;" class="listtext"></td>
+                    <td class="listtext">
+                        
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	<img class="dfb-icon" title="Schiedsrichter ist geplant" src="/customize/8.31.95.5210/dfbnet/images/icons/spiel_schiri.gif" alt="">
+
+
+
+                        
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	<img class="dfb-icon" title="In Planung" src="/customize/8.31.95.5210/dfbnet/images/icons/mannschaft_edit.gif" alt="">
+
+
+
+                        
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                        
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                    </td>
+                </tr>
+            
+                
+                    <tr class="jlistTrOdd">
+                          <td style="text-align:center;" colspan="14" class="listtext">
+                              <b>
+                                <span>B-Junioren, Bezirksliga, Bezirk Bodensee</span> <br>
+                                <span>330026 - Meisterschaft, B-Junioren Bezirksliga</span>
+                              </b>
+                          </td>
+                      </tr>
+                
+                
+                <tr class="jlistTrEven ">
+                    <td class="listtext">
+                        
+                        
+                        
+                            <a id="cmrLink_02FJQ5OG94000000VS5489B3VTB5ODGG" class="dfb-left dfb-link" href="/sbo-mobile/v2/#/report/02FJQ5OG94000000VS5489B3VTB5ODGG?dmg_company=DFBNET" target="_blank">
+                                <img class="dfb-icon" title="Einzelspielbericht (neue Version) bearbeiten" src="/customize/8.31.95.5210/dfbnet/images/icons/spiel_details_edit.gif" alt="Bearbeiten">
+                            </a>
+                        
+                        
+                        
+                    </td>
+                    
+                    <td class="listtext">
+                        
+                        
+                    </td>
+                    <td style="text-align:center;" class="listtext">021</td>
+                    <td style="text-align:center;" class="listtext">Sa</td>
+                    <td style="text-align:center;" class="listtext">02.10.2021</td>
+                    <td style="text-align:center;" class="listtext">15:00</td>
+                    <td style="text-align:center;" class="listtext">4</td>
+                    <td class="listtext">SG Meersburg</td>
+                    <td class="listtext">SG Bermatingen</td>
+                    <td style="text-align:center;" class="listtext"></td>
+                    <td class="listtext">
+                        
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	<img class="dfb-icon" title="Schiedsrichter ist geplant" src="/customize/8.31.95.5210/dfbnet/images/icons/spiel_schiri.gif" alt="">
+
+
+
+                        
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	<img class="dfb-icon" title="In Planung" src="/customize/8.31.95.5210/dfbnet/images/icons/mannschaft_edit.gif" alt="">
+
+
+
+                        
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                        
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                    </td>
+                </tr>
+            
+                
+                    <tr class="jlistTrOdd">
+                          <td style="text-align:center;" colspan="14" class="listtext">
+                              <b>
+                                <span>B-Junioren, 1.Kreisliga (A), Bodensee</span> <br>
+                                <span>330082 - Meisterschaft, B-Junioren Kreisliga 2</span>
+                              </b>
+                          </td>
+                      </tr>
+                
+                
+                <tr class="jlistTrOdd ">
+                    <td class="listtext">
+                        
+                        
+                        
+                            <a id="cmrLink_02F8O1VF8G000000VS5489B3VSQ68S6N" class="dfb-left dfb-link" href="/sbo-mobile/v2/#/report/02F8O1VF8G000000VS5489B3VSQ68S6N?dmg_company=DFBNET" target="_blank">
+                                <img class="dfb-icon" title="Einzelspielbericht (neue Version) bearbeiten" src="/customize/8.31.95.5210/dfbnet/images/icons/spiel_details_edit.gif" alt="Bearbeiten">
+                            </a>
+                        
+                        
+                        
+                    </td>
+                    
+                    <td class="listtext">
+                        
+                        
+                    </td>
+                    <td style="text-align:center;" class="listtext">019</td>
+                    <td style="text-align:center;" class="listtext">Sa</td>
+                    <td style="text-align:center;" class="listtext">02.10.2021</td>
+                    <td style="text-align:center;" class="listtext">14:00</td>
+                    <td style="text-align:center;" class="listtext">4</td>
+                    <td class="listtext">SG Tengen-Watterdingen</td>
+                    <td class="listtext">SG Bermatingen 2</td>
+                    <td style="text-align:center;" class="listtext"></td>
+                    <td class="listtext">
+                        
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	<img class="dfb-icon" title="Schiedsrichter ist geplant" src="/customize/8.31.95.5210/dfbnet/images/icons/spiel_schiri.gif" alt="">
+
+
+
+                        
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                        
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                        
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                    </td>
+                </tr>
+            
+                
+                    <tr class="jlistTrOdd">
+                          <td style="text-align:center;" colspan="14" class="listtext">
+                              <b>
+                                <span>C-Junioren, Bezirksliga, Bezirk Bodensee</span> <br>
+                                <span>330027 - Meisterschaft, C-Junioren Bezirksliga</span>
+                              </b>
+                          </td>
+                      </tr>
+                
+                
+                <tr class="jlistTrEven ">
+                    <td class="listtext">
+                        
+                        
+                        
+                            <a id="cmrLink_02F87V7OO8000000VS5489B3VSQ68S6N" class="dfb-left dfb-link" href="/sbo-mobile/v2/#/report/02F87V7OO8000000VS5489B3VSQ68S6N?dmg_company=DFBNET" target="_blank">
+                                <img class="dfb-icon" title="Einzelspielbericht (neue Version) bearbeiten" src="/customize/8.31.95.5210/dfbnet/images/icons/spiel_details_edit.gif" alt="Bearbeiten">
+                            </a>
+                        
+                        
+                        
+                    </td>
+                    
+                    <td class="listtext">
+                        
+                        
+                    </td>
+                    <td style="text-align:center;" class="listtext">024</td>
+                    <td style="text-align:center;" class="listtext">Sa</td>
+                    <td style="text-align:center;" class="listtext">02.10.2021</td>
+                    <td style="text-align:center;" class="listtext">13:30</td>
+                    <td style="text-align:center;" class="listtext">4</td>
+                    <td class="listtext">SG Salem</td>
+                    <td class="listtext">SG F.A.L.</td>
+                    <td style="text-align:center;" class="listtext"></td>
+                    <td class="listtext">
+                        
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	<img class="dfb-icon" title="Schiedsrichter ist geplant" src="/customize/8.31.95.5210/dfbnet/images/icons/spiel_schiri.gif" alt="">
+
+
+
+                        
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	<img class="dfb-icon" title="In Planung" src="/customize/8.31.95.5210/dfbnet/images/icons/mannschaft_edit.gif" alt="">
+
+
+
+                        
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                        
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                    </td>
+                </tr>
+            
+                
+                    <tr class="jlistTrOdd">
+                          <td style="text-align:center;" colspan="14" class="listtext">
+                              <b>
+                                <span>C-Junioren, Kreisklasse, Bodensee</span> <br>
+                                <span>330024 - Meisterschaft, C-Junioren Kreisklasse 2</span>
+                              </b>
+                          </td>
+                      </tr>
+                
+                
+                <tr class="jlistTrOdd ">
+                    <td class="listtext">
+                        
+                        
+                        
+                            <a id="cmrLink_02FB9AQM64000000VS5489B3VV76U8DT" class="dfb-left dfb-link" href="/sbo-mobile/v2/#/report/02FB9AQM64000000VS5489B3VV76U8DT?dmg_company=DFBNET" target="_blank">
+                                <img class="dfb-icon" title="Einzelspielbericht (neue Version) bearbeiten" src="/customize/8.31.95.5210/dfbnet/images/icons/spiel_details_edit.gif" alt="Bearbeiten">
+                            </a>
+                        
+                        
+                        
+                    </td>
+                    
+                    <td class="listtext">
+                        
+                        
+                    </td>
+                    <td style="text-align:center;" class="listtext">015</td>
+                    <td style="text-align:center;" class="listtext">Fr</td>
+                    <td style="text-align:center;" class="listtext">01.10.2021</td>
+                    <td style="text-align:center;" class="listtext">17:30</td>
+                    <td style="text-align:center;" class="listtext">4</td>
+                    <td class="listtext">SG Salem 2 (9er)</td>
+                    <td class="listtext">SG F.A.L. 2</td>
+                    <td style="text-align:center;" class="listtext"></td>
+                    <td class="listtext">
+                        
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	<img class="dfb-icon" title="Spiel ist geplant" src="/customize/8.31.95.5210/dfbnet/images/icons/spiel_geplant.gif" alt="">
+
+
+
+                        
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	<img class="dfb-icon" title="In Planung" src="/customize/8.31.95.5210/dfbnet/images/icons/mannschaft_edit.gif" alt="">
+
+
+
+                        
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                        
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                    </td>
+                </tr>
+            
+                
+                    <tr class="jlistTrOdd">
+                          <td style="text-align:center;" colspan="14" class="listtext">
+                              <b>
+                                <span>D-Junioren, Kreisklasse, Bodensee</span> <br>
+                                <span>330095 - Meisterschaft, D-Junioren Kreisklasse 4</span>
+                              </b>
+                          </td>
+                      </tr>
+                
+                
+                <tr class="jlistTrEven ">
+                    <td class="listtext">
+                        
+                        
+                        
+                            <a id="cmrLink_02FBNCIUG4000000VS5489B4VSG06PAH" class="dfb-left dfb-link" href="/sbo-mobile/v2/#/report/02FBNCIUG4000000VS5489B4VSG06PAH?dmg_company=DFBNET" target="_blank">
+                                <img class="dfb-icon" title="Einzelspielbericht (neue Version) bearbeiten" src="/customize/8.31.95.5210/dfbnet/images/icons/spiel_details_edit.gif" alt="Bearbeiten">
+                            </a>
+                        
+                        
+                        
+                    </td>
+                    
+                    <td class="listtext">
+                        
+                        
+                    </td>
+                    <td style="text-align:center;" class="listtext">021</td>
+                    <td style="text-align:center;" class="listtext">Sa</td>
+                    <td style="text-align:center;" class="listtext">02.10.2021</td>
+                    <td style="text-align:center;" class="listtext">11:30</td>
+                    <td style="text-align:center;" class="listtext">4</td>
+                    <td class="listtext">SV Deggenhausertal</td>
+                    <td class="listtext">TuS Meersburg</td>
+                    <td style="text-align:center;" class="listtext"></td>
+                    <td class="listtext">
+                        
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	<img class="dfb-icon" title="Spiel ist geplant" src="/customize/8.31.95.5210/dfbnet/images/icons/spiel_geplant.gif" alt="">
+
+
+
+                        
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	<img class="dfb-icon" title="In Planung" src="/customize/8.31.95.5210/dfbnet/images/icons/mannschaft_edit.gif" alt="">
+
+
+
+                        
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                        
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                    </td>
+                </tr>
+            
+                
+                    <tr class="jlistTrOdd">
+                          <td style="text-align:center;" colspan="14" class="listtext">
+                              <b>
+                                <span>E-Junioren, Kleinfeldklasse, Bodensee</span> <br>
+                                <span>335480 - Meisterschaft, E-Junioren Kleinfeld 10 Vorr.</span>
+                              </b>
+                          </td>
+                      </tr>
+                
+                
+                <tr class="jlistTrOdd ">
+                    <td class="listtext">
+                        
+                        
+                        
+                            <a id="cmrLink_02FCO4O6I4000000VS5489B4VSG06PAH" class="dfb-left dfb-link" href="/sbo-mobile/v2/#/report/02FCO4O6I4000000VS5489B4VSG06PAH?dmg_company=DFBNET" target="_blank">
+                                <img class="dfb-icon" title="Einzelspielbericht (neue Version) bearbeiten" src="/customize/8.31.95.5210/dfbnet/images/icons/spiel_details_edit.gif" alt="Bearbeiten">
+                            </a>
+                        
+                        
+                        
+                    </td>
+                    
+                    <td class="listtext">
+                        
+                        
+                    </td>
+                    <td style="text-align:center;" class="listtext">016</td>
+                    <td style="text-align:center;" class="listtext">Do</td>
+                    <td style="text-align:center;" class="listtext">30.09.2021</td>
+                    <td style="text-align:center;" class="listtext">17:00</td>
+                    <td style="text-align:center;" class="listtext">4</td>
+                    <td class="listtext">SV Deggenhausertal 2</td>
+                    <td class="listtext">FC Rot-Weiß Salem 3</td>
+                    <td style="text-align:center;" class="listtext"></td>
+                    <td class="listtext">
+                        
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	<img class="dfb-icon" title="Spiel ist geplant" src="/customize/8.31.95.5210/dfbnet/images/icons/spiel_geplant.gif" alt="">
+
+
+
+                        
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	<img class="dfb-icon" title="In Planung" src="/customize/8.31.95.5210/dfbnet/images/icons/mannschaft_edit.gif" alt="">
+
+
+
+                        
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                        
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                    </td>
+                </tr>
+            
+                
+                    <tr class="jlistTrOdd">
+                          <td style="text-align:center;" colspan="14" class="listtext">
+                              <b>
+                                <span>E-Junioren, Kleinfeldklasse, Bodensee</span> <br>
+                                <span>335485 - Meisterschaft, E-Junioren Kleinfeld 11 Vorr.</span>
+                              </b>
+                          </td>
+                      </tr>
+                
+                
+                <tr class="jlistTrEven ">
+                    <td class="listtext">
+                        
+                        
+                        
+                            <a id="cmrLink_02FD7JA5B4000000VS5489B3VV76U8DT" class="dfb-left dfb-link" href="/sbo-mobile/v2/#/report/02FD7JA5B4000000VS5489B3VV76U8DT?dmg_company=DFBNET" target="_blank">
+                                <img class="dfb-icon" title="Einzelspielbericht (neue Version) bearbeiten" src="/customize/8.31.95.5210/dfbnet/images/icons/spiel_details_edit.gif" alt="Bearbeiten">
+                            </a>
+                        
+                        
+                        
+                    </td>
+                    
+                    <td class="listtext">
+                        
+                        
+                    </td>
+                    <td style="text-align:center;" class="listtext">016</td>
+                    <td style="text-align:center;" class="listtext">Fr</td>
+                    <td style="text-align:center;" class="listtext">01.10.2021</td>
+                    <td style="text-align:center;" class="listtext">17:00</td>
+                    <td style="text-align:center;" class="listtext">4</td>
+                    <td class="listtext">SG Meersburg</td>
                     <td class="listtext">SV Deggenhausertal</td>
                     <td style="text-align:center;" class="listtext"></td>
                     <td class="listtext">
@@ -810,7 +1548,7 @@
 
 
 
-	<img class="dfb-icon" title="Spiel ist geplant" src="/customize/8.31.23.5162/dfbnet/images/icons/spiel_geplant.gif" alt="">
+	<img class="dfb-icon" title="Spiel ist geplant" src="/customize/8.31.95.5210/dfbnet/images/icons/spiel_geplant.gif" alt="">
 
 
 
@@ -831,6 +1569,617 @@
 
 
 
+
+	<img class="dfb-icon" title="In Planung" src="/customize/8.31.95.5210/dfbnet/images/icons/mannschaft_edit.gif" alt="">
+
+
+
+                        
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                        
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                    </td>
+                </tr>
+            
+                
+                    <tr class="jlistTrOdd">
+                          <td style="text-align:center;" colspan="14" class="listtext">
+                              <b>
+                                <span>Frauen, Verbandsliga, Südbaden</span> <br>
+                                <span>335123 - Meisterschaft, Frauen Verbandsliga Südbaden</span>
+                              </b>
+                          </td>
+                      </tr>
+                
+                
+                <tr class="jlistTrOdd ">
+                    <td class="listtext">
+                        
+                        
+                        
+                            <a id="cmrLink_02F1NT38UO000000VS5489B4VS0OFO4E" class="dfb-left dfb-link" href="/sbo-mobile/v2/#/report/02F1NT38UO000000VS5489B4VS0OFO4E?dmg_company=DFBNET" target="_blank">
+                                <img class="dfb-icon" title="Einzelspielbericht (neue Version) bearbeiten" src="/customize/8.31.95.5210/dfbnet/images/icons/spiel_details_edit.gif" alt="Bearbeiten">
+                            </a>
+                        
+                        
+                        
+                    </td>
+                    
+                    <td class="listtext">
+                        
+                        
+                    </td>
+                    <td style="text-align:center;" class="listtext">010</td>
+                    <td style="text-align:center;" class="listtext">Sa</td>
+                    <td style="text-align:center;" class="listtext">02.10.2021</td>
+                    <td style="text-align:center;" class="listtext">14:30</td>
+                    <td style="text-align:center;" class="listtext">2</td>
+                    <td class="listtext">SV Deggenhausertal</td>
+                    <td class="listtext">VfB Unzhurst</td>
+                    <td style="text-align:center;" class="listtext"></td>
+                    <td class="listtext">
+                        
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	<img class="dfb-icon" title="Schiedsrichter ist geplant" src="/customize/8.31.95.5210/dfbnet/images/icons/spiel_schiri.gif" alt="">
+
+
+
+                        
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	<img class="dfb-icon" title="In Planung" src="/customize/8.31.95.5210/dfbnet/images/icons/mannschaft_edit.gif" alt="">
+
+
+
+                        
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                        
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                    </td>
+                </tr>
+            
+                
+                    <tr class="jlistTrOdd">
+                          <td style="text-align:center;" colspan="14" class="listtext">
+                              <b>
+                                <span>Frauen, 1.Kreisliga (A), Bodensee</span> <br>
+                                <span>335684 - Meisterschaft, Frauen Kreisliga A</span>
+                              </b>
+                          </td>
+                      </tr>
+                
+                
+                <tr class="jlistTrEven ">
+                    <td class="listtext">
+                        
+                        
+                        
+                            <a id="cmrLink_02F7JPDVF0000000VS5489B4VS777J8H" class="dfb-left dfb-link" href="/sbo-mobile/v2/#/report/02F7JPDVF0000000VS5489B4VS777J8H?dmg_company=DFBNET" target="_blank">
+                                <img class="dfb-icon" title="Einzelspielbericht (neue Version) bearbeiten" src="/customize/8.31.95.5210/dfbnet/images/icons/spiel_details_edit.gif" alt="Bearbeiten">
+                            </a>
+                        
+                        
+                        
+                    </td>
+                    
+                    <td class="listtext">
+                        
+                        
+                    </td>
+                    <td style="text-align:center;" class="listtext">009</td>
+                    <td style="text-align:center;" class="listtext">Sa</td>
+                    <td style="text-align:center;" class="listtext">02.10.2021</td>
+                    <td style="text-align:center;" class="listtext">12:00</td>
+                    <td style="text-align:center;" class="listtext">3</td>
+                    <td class="listtext">SG Sipplingen/Bodman-Ludwigsh. (9er)</td>
+                    <td class="listtext">SV Deggenhausertal 3</td>
+                    <td style="text-align:center;" class="listtext"></td>
+                    <td class="listtext">
+                        
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	<img class="dfb-icon" title="Spiel ist geplant" src="/customize/8.31.95.5210/dfbnet/images/icons/spiel_geplant.gif" alt="">
+
+
+
+                        
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	<img class="dfb-icon" title="In Planung" src="/customize/8.31.95.5210/dfbnet/images/icons/mannschaft_edit.gif" alt="">
+
+
+
+                        
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                        
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                    </td>
+                </tr>
+            
+                
+                
+                <tr class="jlistTrOdd ">
+                    <td class="listtext">
+                        
+                        
+                        
+                            <a id="cmrLink_02F7JPDVFG000000VS5489B4VS777J8H" class="dfb-left dfb-link" href="/sbo-mobile/v2/#/report/02F7JPDVFG000000VS5489B4VS777J8H?dmg_company=DFBNET" target="_blank">
+                                <img class="dfb-icon" title="Einzelspielbericht (neue Version) bearbeiten" src="/customize/8.31.95.5210/dfbnet/images/icons/spiel_details_edit.gif" alt="Bearbeiten">
+                            </a>
+                        
+                        
+                        
+                    </td>
+                    
+                    <td class="listtext">
+                        
+                        
+                    </td>
+                    <td style="text-align:center;" class="listtext">010</td>
+                    <td style="text-align:center;" class="listtext">So</td>
+                    <td style="text-align:center;" class="listtext">03.10.2021</td>
+                    <td style="text-align:center;" class="listtext">10:30</td>
+                    <td style="text-align:center;" class="listtext">3</td>
+                    <td class="listtext">Hegauer FV 3</td>
+                    <td class="listtext">SV Deggenhausertal 2</td>
+                    <td style="text-align:center;" class="listtext"></td>
+                    <td class="listtext">
+                        
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	<img class="dfb-icon" title="Schiedsrichter ist geplant" src="/customize/8.31.95.5210/dfbnet/images/icons/spiel_schiri.gif" alt="">
+
+
+
+                        
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                        
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                        
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                    </td>
+                </tr>
+            
+                
+                    <tr class="jlistTrOdd">
+                          <td style="text-align:center;" colspan="14" class="listtext">
+                              <b>
+                                <span>B-Juniorinnen, 1.Kreisliga (A), Bodensee</span> <br>
+                                <span>330053 - Meisterschaft, B-Juniorinnen Kreisliga 9er</span>
+                              </b>
+                          </td>
+                      </tr>
+                
+                
+                <tr class="jlistTrEven ">
+                    <td class="listtext">
+                        
+                        
+                        
+                            <a id="cmrLink_02FCMNP3H8000000VS5489B3VV76U8DT" class="dfb-left dfb-link" href="/sbo-mobile/v2/#/report/02FCMNP3H8000000VS5489B3VV76U8DT?dmg_company=DFBNET" target="_blank">
+                                <img class="dfb-icon" title="Einzelspielbericht (neue Version) bearbeiten" src="/customize/8.31.95.5210/dfbnet/images/icons/spiel_details_edit.gif" alt="Bearbeiten">
+                            </a>
+                        
+                        
+                        
+                    </td>
+                    
+                    <td class="listtext">
+                        
+                        
+                    </td>
+                    <td style="text-align:center;" class="listtext">013</td>
+                    <td style="text-align:center;" class="listtext">Sa</td>
+                    <td style="text-align:center;" class="listtext">02.10.2021</td>
+                    <td style="text-align:center;" class="listtext">10:00</td>
+                    <td style="text-align:center;" class="listtext">4</td>
+                    <td class="listtext">SV Worblingen</td>
+                    <td class="listtext">SG Salem</td>
+                    <td style="text-align:center;" class="listtext"></td>
+                    <td class="listtext">
+                        
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	<img class="dfb-icon" title="Spiel ist geplant" src="/customize/8.31.95.5210/dfbnet/images/icons/spiel_geplant.gif" alt="">
+
+
+
+                        
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	<img class="dfb-icon" title="In Planung" src="/customize/8.31.95.5210/dfbnet/images/icons/mannschaft_edit.gif" alt="">
+
+
+
+                        
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                        
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                    </td>
+                </tr>
+            
+                
+                    <tr class="jlistTrOdd">
+                          <td style="text-align:center;" colspan="14" class="listtext">
+                              <b>
+                                <span>C-Juniorinnen, 1.Kreisliga (A), Bodensee</span> <br>
+                                <span>330254 - Meisterschaft, C-Juniorinnen Kreisliga 9er</span>
+                              </b>
+                          </td>
+                      </tr>
+                
+                
+                <tr class="jlistTrOdd ">
+                    <td class="listtext">
+                        
+                        
+                        
+                            <a id="cmrLink_02FCMR2UKS000000VS5489B3VV76U8DT" class="dfb-left dfb-link" href="/sbo-mobile/v2/#/report/02FCMR2UKS000000VS5489B3VV76U8DT?dmg_company=DFBNET" target="_blank">
+                                <img class="dfb-icon" title="Einzelspielbericht (neue Version) bearbeiten" src="/customize/8.31.95.5210/dfbnet/images/icons/spiel_details_edit.gif" alt="Bearbeiten">
+                            </a>
+                        
+                        
+                        
+                    </td>
+                    
+                    <td class="listtext">
+                        
+                        
+                    </td>
+                    <td style="text-align:center;" class="listtext">013</td>
+                    <td style="text-align:center;" class="listtext">Sa</td>
+                    <td style="text-align:center;" class="listtext">02.10.2021</td>
+                    <td style="text-align:center;" class="listtext">12:00</td>
+                    <td style="text-align:center;" class="listtext">4</td>
+                    <td class="listtext">FSG Zizenhausen/Hi./Ho. (7er)</td>
+                    <td class="listtext">SG Salem (7er)</td>
+                    <td style="text-align:center;" class="listtext"></td>
+                    <td class="listtext">
+                        
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	<img class="dfb-icon" title="Spiel ist geplant" src="/customize/8.31.95.5210/dfbnet/images/icons/spiel_geplant.gif" alt="">
+
+
+
+                        
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	<img class="dfb-icon" title="In Planung" src="/customize/8.31.95.5210/dfbnet/images/icons/mannschaft_edit.gif" alt="">
 
 
 
