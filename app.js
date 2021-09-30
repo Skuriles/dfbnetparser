@@ -10,7 +10,7 @@ Canvas.registerFont(fontFile("MAKISUPA.ttf"), {
   family: "customFont",
 });
 // 1 = nur jugend, 2 = nur Aktiv, 3 = alle
-var jugend = 2;
+var jugend = 3;
 
 function readModuleFile(path, callback) {
   try {
