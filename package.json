@@ -11,6 +11,6 @@
   "dependencies": {
     "canvas": "^2.8.0",
     "htmlparser": "^1.7.7",
-    "moment": "^2.24.0"
+    "moment": "^2.29.4"
   }
 }
